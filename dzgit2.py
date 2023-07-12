@@ -36,6 +36,6 @@ while True:
     else:
         print('номер неверен)')
 
-
+//done2
 
 
